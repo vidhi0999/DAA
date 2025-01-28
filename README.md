@@ -10,5 +10,7 @@ UTA Mail Id: vxt8273@mavs.uta.edu
 
 #### System Info:
 Operating System: macOS Sonoma (Version 14.4)
-Processor: 
+
+Processor: Apple M2
+
 RAM: 8 GB
