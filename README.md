@@ -2,7 +2,10 @@
 
 #### CSE5311006(Design and Analysis of Algorithms)
 Name: Vidhi Hareshbhai Thummar
+
 Student Id: 1002268273
+
+
 UTA Mail Id: vxt8273@mavs.uta.edu
 
 #### System Info:
